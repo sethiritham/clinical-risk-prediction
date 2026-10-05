@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environments
+.venv/
+venv/
+.env
+
+# Data
+data/raw/*
+data/processed/*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML experiments
+mlruns/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
